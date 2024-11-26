@@ -82,6 +82,7 @@
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thatcoderboy01&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thatcoderboy01&theme=midnight_purple&utcOffset=8) |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 
+![Profile Views](https://profile-counter.glitch.me/Thatcoderboy01/count.svg)
 
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Thatcoderboy01&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Thatcoderboy01&theme=github_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Thatcoderboy01&theme=github_dark) |
