@@ -23,3 +23,7 @@
 > Along with building **secure** 🔒, **scalable systems** 📊, I make sure to focus on **eco-friendly practices** 🌱 in everything I do. Whether it's optimizing **cloud infrastructure** ☁️ or developing **efficient code** 🧑‍💻, I strive to reduce the impact on our environment.
 
 > 🌱 **Let’s create a better, greener future with technology!** 🌍
+
+
+![image](https://github.com/user-attachments/assets/531e0f2f-465f-4f0a-b4ea-d19a278ac64c)
+
