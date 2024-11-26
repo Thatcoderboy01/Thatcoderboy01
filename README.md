@@ -30,3 +30,60 @@
 ![image](https://github.com/user-attachments/assets/e778c190-6ab5-4126-bd69-990216ec84da)
 
 
+# Skills Overview for Full Stack Development, Cybersecurity, and Cloud Computing
+
+| **Front-End Development**  | **Back-End Development**   | **Databases**              | **API Development**       | **Authentication & Authorization** | **Other Tools**             |
+|----------------------------|----------------------------|----------------------------|---------------------------|------------------------------------|-----------------------------|
+| **HTML5**                  | **Node.js** (JavaScript)   | **Relational Databases**    | **REST APIs**             | **JWT** (JSON Web Tokens)         | **Docker**                  |
+| **CSS3**                   | **Python** (Django, Flask) | - MySQL                    | **GraphQL**               | **OAuth 2.0** / OpenID Connect    | **Kubernetes**              |
+| **JavaScript** (ES6+)      | **Ruby** (Ruby on Rails)   | - PostgreSQL               | **WebSockets**            |                                    | **CI/CD Pipelines**         |
+| **React.js**               | **PHP** (Laravel)          | - SQLite                   |                           |                                    | **Jenkins**, **CircleCI**   |
+| **Vue.js**                 | **Java** (Spring Boot)     | **NoSQL Databases**        |                           |                                    | **GitLab**                  |
+| **Angular**                | **Go (Golang)**            | - MongoDB                  |                           |                                    |                             |
+| **CSS Preprocessors**      | **Rust**                   | - Redis                    |                           |                                    |                             |
+| **Tailwind CSS**           | **C#** (ASP.NET Core)      | - Cassandra                |                           |                                    |                             |
+| **Webpack**, **Babel**     | **Express.js** (Node.js)   | - CouchDB                  |                           |                                    |                             |
+| **Jest**, **Mocha**        | **Spring Boot** (Java)     |                            |                           |                                    |                             |
+
+
+| **Key Concepts & Skills**       | **Tools & Technologies**         |
+|----------------------------------|----------------------------------|
+| **Network Security**            | **Nmap**                         |
+| - Firewalls                     | **Wireshark**                    |
+| - VPN (Virtual Private Network) | **Metasploit**                   |
+| - IDS/IPS                       | **Burp Suite**                   |
+| - Packet Sniffing               | **John the Ripper**              |
+| **Cryptography**                | **Kali Linux**                   |
+| - Symmetric & Asymmetric Encryption |                                |
+| - Hashing Algorithms            |                                  |
+| - Digital Signatures            |                                  |
+| - SSL/TLS                       |                                  |
+| **Ethical Hacking**             |                                  |
+| - Penetration Testing           |                                  |
+| - Exploitation                  |                                  |
+| **Incident Response & Forensics**|                                  |
+| - Log Analysis                  |                                  |
+| - Forensic Tools (Autopsy, Sleuth Kit) |                              |
+| - Root Cause Analysis           |                                  |
+| **Security Policies & Compliance**|                                 |
+| - GDPR, HIPAA, SOC 2            |                                  |
+
+
+| **Cloud Platforms & Services**  | **Cloud Computing Skills**      | **DevOps & CI/CD**             |
+|----------------------------------|----------------------------------|--------------------------------|
+| **AWS**                         | **Infrastructure as Code (IaC)**| **Continuous Integration (CI)**|
+| - EC2                           | - Terraform                     | - Jenkins                      |
+| - S3                            | - AWS CloudFormation            | - GitLab CI                    |
+| - Lambda                        |                                  | - Travis CI                    |
+| - RDS                           |                                  | **Continuous Delivery/Deployment (CD)** |
+| - Elastic Beanstalk             |                                  | - Automated delivery pipelines |
+| - AWS VPC                       |                                  | - Production automation        |
+| **Google Cloud Platform (GCP)** | **Containers & Orchestration**   |                                |
+| - Compute Engine                | - Docker                         |                                |
+| - App Engine                    | - Kubernetes                     |                                |
+| - BigQuery                      |                                  |                                |
+| **Microsoft Azure**             | **Serverless Architectures**     |                                |
+| - Azure App Services            | - AWS Lambda                     |                                |
+| - Azure Functions               | - Azure Functions                |                                |
+| - Azure SQL Database            |                                  |                                |
+
