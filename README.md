@@ -30,9 +30,10 @@
 ![image](https://github.com/user-attachments/assets/e778c190-6ab5-4126-bd69-990216ec84da)
 
 
+![image](https://github.com/user-attachments/assets/2abb2284-dc32-430c-b94e-010c22d3cd2c)
 
-![image](https://github.com/user-attachments/assets/98384dde-9e78-45ec-896d-fb949c5eaa89)
-![image](https://github.com/user-attachments/assets/3bd971cf-e7ad-4590-a2a5-23698833951a)
+![image](https://github.com/user-attachments/assets/0c4115cf-1365-448e-9fe2-595418b45ff0)
+
 
 
 ## 🧑‍💻 Full Stack Development
