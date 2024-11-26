@@ -202,7 +202,7 @@
         <img src="https://ouch-cdn2.icons8.com/_US60I188UuoRurpJ9lfFmfp5baT-Gtp3bghSn-AOL8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTI0/L2NjYjgwMjlkLWZh/NWMtNDU5Yy05YjBk/LWI0Yzg2MzI3Zjc0/Mi5wbmc.png" alt="Instagram" width="50" height="50">
     </a>
     <a href="https://www.linkedin.com/in/ritesh-ray-682056319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-2447889.png?f=webp" alt="LinkedIn" width="55" height="55">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-2447889.png?f=webp" alt="LinkedIn" width="65" height="65">
     </a>
     <a href="https://wa.link/yxjvkp">
         <img src="https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png" alt="WhatsApp" width="50" height="50">
