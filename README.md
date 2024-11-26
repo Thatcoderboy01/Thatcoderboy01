@@ -79,6 +79,56 @@
 | **Cloud Security**              | Shared Responsibility Models, Cloud Security Best Practices                                                                    |
 
 
+
+
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![Vue.js](https://img.shields.io/badge/Vue.js-000000?style=for-the-badge&logo=vue.js)
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwindcss)
+![SCSS](https://img.shields.io/badge/SCSS-000000?style=for-the-badge&logo=sass)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass)
+![Webpack](https://img.shields.io/badge/Webpack-000000?style=for-the-badge&logo=webpack)
+![Babel](https://img.shields.io/badge/Babel-000000?style=for-the-badge&logo=babel)
+![Jest](https://img.shields.io/badge/Jest-000000?style=for-the-badge&logo=jest)
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress)
+![React Router](https://img.shields.io/badge/React%20Router-000000?style=for-the-badge&logo=react-router)
+![Redux](https://img.shields.io/badge/Redux-000000?style=for-the-badge&logo=redux)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-000000?style=for-the-badge&logo=ruby-on-rails)
+![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=spring-boot)
+![Go](https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-000000?style=for-the-badge&logo=aspdotnet)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-000000?style=for-the-badge&logo=api)
+![GraphQL](https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=websockets)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens)
+![OAuth 2.0](https://img.shields.io/badge/OAuth%202.0-000000?style=for-the-badge&logo=oauth)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-000000?style=for-the-badge&logo=openid)
+![Mocha](https://img.shields.io/badge/Mocha-000000?style=for-the-badge&logo=mocha)
+![Chai](https://img.shields.io/badge/Chai-000000?style=for-the-badge&logo=chai)
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-000000?style=for-the-badge&logo=testinglibrary)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins)
+![CircleCI](https://img.shields.io/badge/CircleCI-000000?style=for-the-badge&logo=circleci)
+![GitLab](https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab)
+![CI/CD Pipelines](https://img.shields.io/badge/CI%2FCD%20Pipelines-000000?style=for-the-badge&logo=cicd)
+![Vuex](https://img.shields.io/badge/Vuex-000000?style=for-the-badge&logo=vuex)
+![NgRx](https://img.shields.io/badge/NgRx-000000?style=for-the-badge&logo=ngrx)
+
+
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thatcoderboy01&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thatcoderboy01&theme=midnight_purple&utcOffset=8) |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 
