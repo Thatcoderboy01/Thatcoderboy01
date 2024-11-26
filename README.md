@@ -138,7 +138,6 @@
 ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-000000?style=for-the-badge&logo=ssl)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=metasploit)
 ![Reconnaissance](https://img.shields.io/badge/Reconnaissance-000000?style=for-the-badge&logo=nmap)
-![Exploitation](https://img.shields.io/badge/Exploitation-000000?style=for-the-badge&logo=metasploit)
 ![Post-exploitation](https://img.shields.io/badge/Post-exploitation-000000?style=for-the-badge&logo=metasploit)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-000000?style=for-the-badge&logo=logs)
 ![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy)
