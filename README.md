@@ -16,11 +16,14 @@
 ![image](https://github.com/user-attachments/assets/60d58b6a-3fe1-4c2f-86d2-0a9131908fbe)
 
 
-> Hello, I’m **Ritesh Ray** 👨‍💻. I am passionate about the world of technology, where I specialize in **full-stack development** 💻, **cybersecurity** 🔐, and **cloud computing** ☁️. While I am deeply involved in creating innovative tech solutions, I also believe in taking responsibility for the environment 🌱. 
+> As a **Full-Stack Developer**, I'm well-versed in both **front-end** and **back-end** technologies, with a focus on building seamless **user experiences** and robust, **scalable back-end systems**. 🌐💻
 
-> I firmly believe that we should align our **digital advancements** with **sustainability** 🌍, using technology in a way that benefits both humanity and the planet 🌿.
+> My journey in **Cybersecurity** empowers me to integrate **security best practices** into my development workflows, ensuring that applications are built with **data privacy** and **integrity** in mind. 🔒💡
 
-> Along with building **secure** 🔒, **scalable systems** 📊, I make sure to focus on **eco-friendly practices** 🌱 in everything I do. Whether it's optimizing **cloud infrastructure** ☁️ or developing **efficient code** 🧑‍💻, I strive to reduce the impact on our environment.
+> I also have a strong foundation in **Cloud Computing**, which enables me to design and deploy applications that leverage the power and flexibility of **cloud infrastructures**. ☁️⚙️
+
+> I believe in the **continuous evolution** of my skills, which drives my passion for learning new **technologies**, **tools**, and **techniques**. 🚀📚 Whether it’s **optimizing front-end performance**, securing **back-end systems**, or automating **cloud infrastructure**, I’m always eager to **solve complex problems** and deliver **innovative solutions**. 💡🔧
+
 
 > 🌱 **Let’s create a better, greener future with technology!** 🌍
 
