@@ -24,6 +24,6 @@
 
 > 🌱 **Let’s create a better, greener future with technology!** 🌍
 
+![image](https://github.com/user-attachments/assets/e778c190-6ab5-4126-bd69-990216ec84da)
 
-![image](https://github.com/user-attachments/assets/531e0f2f-465f-4f0a-b4ea-d19a278ac64c)
 
