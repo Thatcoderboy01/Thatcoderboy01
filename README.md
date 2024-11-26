@@ -78,9 +78,6 @@
 | **CI/CD**                       | Jenkins, GitLab CI, Travis CI                                                                                                  |
 | **Cloud Security**              | Shared Responsibility Models, Cloud Security Best Practices                                                                    |
 
-
-
-
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
@@ -154,9 +151,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=johntheripper)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali)
 ![Firewalls](https://img.shields.io/badge/Firewalls-000000?style=for-the-badge&logo=firewall)
-![VPN](https://img.shields.io/badge/VPN-000000?style=for-the-badge&logo=vpn)
 ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-000000?style=for-the-badge&logo=security)
 ![Packet Sniffing](https://img.shields.io/badge/Packet%20Sniffing-000000?style=for-the-badge&logo=wireshark)
 ![AES](https://img.shields.io/badge/AES-000000?style=for-the-badge&logo=aes)
@@ -183,7 +178,6 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=johntheripper)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali)
-
 
 
 
