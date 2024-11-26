@@ -197,4 +197,20 @@
 
 
 
-| ![Instagram](https://ouch-cdn2.icons8.com/_US60I188UuoRurpJ9lfFmfp5baT-Gtp3bghSn-AOL8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTI0/L2NjYjgwMjlkLWZh/NWMtNDU5Yy05YjBk/LWI0Yzg2MzI3Zjc0/Mi5wbmc.png =50x50) [Instagram](https://www.instagram.com/7befikra/profilecard/?igsh=MXZrYTN6ZDk3YWd1cw==) | ![LinkedIn](https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-2447889.png?f=webp =50x50) [LinkedIn](https://www.linkedin.com/in/ritesh-ray-682056319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | ![WhatsApp](https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png =50x50) [WhatsApp](https://wa.link/yxjvkp) | ![Twitter](https://static.vecteezy.com/system/resources/previews/038/123/723/non_2x/twitter-x-account-app-logo-in-big-sur-style-3d-render-icon-design-concept-element-isolated-transparent-background-free-png.png =50x50) [Twitter](https://x.com/Riteshrajput222?t=CjriF5XoJA9VhbP73QBxkw&s=09) | ![Gmail](https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png =50x50) [Gmail](mailto:Riteshray0711@gmail.com) |
+<div style="display: flex; justify-content: space-around; align-items: center;">
+    <a href="https://www.instagram.com/7befikra/profilecard/?igsh=MXZrYTN6ZDk3YWd1cw==">
+        <img src="https://ouch-cdn2.icons8.com/_US60I188UuoRurpJ9lfFmfp5baT-Gtp3bghSn-AOL8/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTI0/L2NjYjgwMjlkLWZh/NWMtNDU5Yy05YjBk/LWI0Yzg2MzI3Zjc0/Mi5wbmc.png" alt="Instagram" width="50" height="50">
+    </a>
+    <a href="https://www.linkedin.com/in/ritesh-ray-682056319?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+        <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-logo-download-in-png-blend-fbx-gltf-file-formats--communication-corporation-social-media-pack-logos-2447889.png?f=webp" alt="LinkedIn" width="55" height="55">
+    </a>
+    <a href="https://wa.link/yxjvkp">
+        <img src="https://ouch-cdn2.icons8.com/1oizdSHZL50V6Q9nrhAoQ1yymCfuay57pGsUUgpdOKo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTY0/L2U0NTdjYWFlLWMy/MWUtNDU5Yi1iMzcy/LTQ4OWIwM2U5ZDgw/OC5wbmc.png" alt="WhatsApp" width="50" height="50">
+    </a>
+    <a href="https://x.com/Riteshrajput222?t=CjriF5XoJA9VhbP73QBxkw&s=09">
+        <img src="https://static.vecteezy.com/system/resources/previews/038/123/723/non_2x/twitter-x-account-app-logo-in-big-sur-style-3d-render-icon-design-concept-element-isolated-transparent-background-free-png.png" alt="Twitter" width="50" height="50">
+    </a>
+    <a href="mailto:Riteshray0711@gmail.com">
+        <img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" alt="Gmail" width="50" height="50">
+    </a>
+</div>
