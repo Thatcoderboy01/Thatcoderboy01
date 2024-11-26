@@ -165,7 +165,6 @@
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-000000?style=for-the-badge&logo=metasploit)
 ![Reconnaissance](https://img.shields.io/badge/Reconnaissance-000000?style=for-the-badge&logo=nmap)
 ![Exploitation](https://img.shields.io/badge/Exploitation-000000?style=for-the-badge&logo=metasploit)
-![Post-exploitation](https://img.shields.io/badge/Post-exploitation-000000?style=for-the-badge&logo=metasploit)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-000000?style=for-the-badge&logo=logs)
 ![Autopsy](https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logo=autopsy)
 ![Sleuth Kit](https://img.shields.io/badge/Sleuth%20Kit-000000?style=for-the-badge&logo=sleuthkit)
@@ -175,7 +174,6 @@
 ![SOC 2](https://img.shields.io/badge/SOC%202-000000?style=for-the-badge&logo=soc2)
 ![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap)
 ![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge&logo=johntheripper)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kali)
 
