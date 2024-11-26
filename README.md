@@ -31,9 +31,9 @@
 
 
 
-# My Skills & Expertise
+![image](https://github.com/user-attachments/assets/98384dde-9e78-45ec-896d-fb949c5eaa89)
+![image](https://github.com/user-attachments/assets/3bd971cf-e7ad-4590-a2a5-23698833951a)
 
- skills and technologies I have mastered in Full Stack Development, Cybersecurity, and Cloud Computing. 
 
 ## 🧑‍💻 Full Stack Development
 
