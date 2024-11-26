@@ -30,3 +30,47 @@
 ![image](https://github.com/user-attachments/assets/e778c190-6ab5-4126-bd69-990216ec84da)
 
 
+
+# My Skills & Expertise
+
+ skills and technologies I have mastered in Full Stack Development, Cybersecurity, and Cloud Computing. 
+
+## 🧑‍💻 Full Stack Development
+
+| **Category**               | **Skills & Tools**                                                                                                                                                         |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Front-End Development**   | HTML5, CSS3, JavaScript, React.js, Vue.js, Angular, Tailwind CSS, SCSS, Sass, Webpack, Babel, Jest, Cypress, React Router, Redux                                          |
+| **Back-End Development**    | Node.js, Express.js, Python (Django, Flask, FastAPI), Ruby (Rails), PHP, Java (Spring Boot), Go, C#, ASP.NET Core, REST APIs, GraphQL, WebSockets                          |
+| **Databases**               | MySQL, PostgreSQL, SQLite, MongoDB, Redis, Cassandra, CouchDB                                                                                                            |
+| **API Development**         | RESTful APIs, GraphQL, WebSockets                                                                                                                                          |
+| **Authentication**          | JWT, OAuth 2.0, OpenID Connect                                                                                                                                              |
+| **Testing**                 | Jest, Mocha, Chai, Cypress, React Testing Library                                                                                                                           |
+| **Tools & DevOps**          | Docker, Kubernetes, Jenkins, CircleCI, GitLab, CI/CD Pipelines                                                                                                           |
+| **State Management**        | Redux, Vuex, NgRx                                                                                                                                                          |
+
+---
+
+## 🔐 Cybersecurity
+
+| **Category**                 | **Skills & Tools**                                                                                                                        |
+|------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| **Network Security**          | Firewalls, VPN, IDS/IPS, Packet Sniffing (Wireshark)                                                                                        |
+| **Cryptography**              | AES, DES, RSA, SHA-256, MD5, HMAC, Digital Signatures, SSL/TLS                                                                              |
+| **Ethical Hacking**           | Penetration Testing, Reconnaissance, Exploitation, Post-exploitation                                                                       |
+| **Incident Response & Forensics** | Log Analysis, Autopsy, Sleuth Kit, Root Cause Analysis                                                                                      |
+| **Security Policies & Compliance** | GDPR, HIPAA, SOC 2                                                                                                                        |
+| **Tools**                     | Nmap, Metasploit, Burp Suite, John the Ripper, Kali Linux                                                                                   |
+
+---
+
+## ☁️ Cloud Computing
+
+| **Category**                   | **Skills & Tools**                                                                                                           |
+|---------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Cloud Platforms**             | AWS (EC2, S3, Lambda, RDS, Elastic Beanstalk, VPC), Google Cloud (Compute Engine, App Engine, BigQuery, Kubernetes Engine), Azure (App Services, SQL Database, Functions) |
+| **Infrastructure as Code**      | Terraform, AWS CloudFormation                                                                                                 |
+| **Containers & Orchestration**  | Docker, Kubernetes                                                                                                            |
+| **Serverless Architectures**    | AWS Lambda, Azure Functions                                                                                                   |
+| **CI/CD**                       | Jenkins, GitLab CI, Travis CI                                                                                                  |
+| **Cloud Security**              | Shared Responsibility Models, Cloud Security Best Practices                                                                    |
+
