@@ -104,6 +104,24 @@
 ### State Management
 ![Redux](https://img.shields.io/badge/Redux-%2320232a?logo=redux&logoColor=white) ![Vuex](https://img.shields.io/badge/Vuex-%232C3E50?logo=vuex&logoColor=white) ![NgRx](https://img.shields.io/badge/NgRx-%2325B5C0?logo=ngrx&logoColor=white)
 
+### Network Security
+![Firewalls](https://img.shields.io/badge/Firewalls-%23FF6F00?logo=firewall&logoColor=white) ![VPN](https://img.shields.io/badge/VPN-%2300A1E4?logo=vpn&logoColor=white) ![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-%23F0A000?logo=security&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%2300E3A1?logo=wireshark&logoColor=white)
+
+### Cryptography
+![AES](https://img.shields.io/badge/AES-%23A5ACAF?logo=aes&logoColor=white) ![DES](https://img.shields.io/badge/DES-%23D63E3E?logo=cryptography&logoColor=white) ![RSA](https://img.shields.io/badge/RSA-%2303A4CC?logo=cryptography&logoColor=white) ![SHA-256](https://img.shields.io/badge/SHA-256-%2305A8D1?logo=cryptography&logoColor=white) ![MD5](https://img.shields.io/badge/MD5-%23F2733C?logo=cryptography&logoColor=white) ![HMAC](https://img.shields.io/badge/HMAC-%23FF6F61?logo=cryptography&logoColor=white) ![Digital Signatures](https://img.shields.io/badge/Digital%20Signatures-%2300B2A9?logo=cryptography&logoColor=white) ![SSL/TLS](https://img.shields.io/badge/SSL%2FTLS-%232C3E50?logo=ssl&logoColor=white)
+
+### Ethical Hacking
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-%23FF4500?logo=penetrationtesting&logoColor=white) ![Reconnaissance](https://img.shields.io/badge/Reconnaissance-%23DAA520?logo=reconnaissance&logoColor=white) ![Exploitation](https://img.shields.io/badge/Exploitation-%23A52A2A?logo=exploitation&logoColor=white) ![Post-exploitation](https://img.shields.io/badge/Post-exploitation-%23F4A300?logo=security&logoColor=white)
+
+### Incident Response & Forensics
+![Log Analysis](https://img.shields.io/badge/Log%20Analysis-%23D3D3D3?logo=loganalysis&logoColor=black) ![Autopsy](https://img.shields.io/badge/Autopsy-%23C6D500?logo=autopsy&logoColor=white) ![Sleuth Kit](https://img.shields.io/badge/Sleuth%20Kit-%23FF5733?logo=sleuthkit&logoColor=white) ![Root Cause Analysis](https://img.shields.io/badge/Root%20Cause%20Analysis-%232C3E50?logo=analytics&logoColor=white)
+
+### Security Policies & Compliance
+![GDPR](https://img.shields.io/badge/GDPR-%23E4A1A1?logo=gdpr&logoColor=white) ![HIPAA](https://img.shields.io/badge/HIPAA-%232A93A2?logo=hipaa&logoColor=white) ![SOC 2](https://img.shields.io/badge/SOC%202-%23C3073F?logo=security&logoColor=white)
+
+### Tools
+![Nmap](https://img.shields.io/badge/Nmap-%23F8D900?logo=nmap&logoColor=black) ![Metasploit](https://img.shields.io/badge/Metasploit-%23F2345A?logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23F05A28?logo=burpsuite&logoColor=white) ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23FF6347?logo=johntheripper&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%233D3D3D?logo=kali&logoColor=white)
+
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thatcoderboy01&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thatcoderboy01&theme=midnight_purple&utcOffset=8) |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
