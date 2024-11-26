@@ -78,3 +78,7 @@
 | **CI/CD**                       | Jenkins, GitLab CI, Travis CI                                                                                                  |
 | **Cloud Security**              | Shared Responsibility Models, Cloud Security Best Practices                                                                    |
 
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thatcoderboy01&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thatcoderboy01&theme=midnight_purple&utcOffset=8) |
+|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+
