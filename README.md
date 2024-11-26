@@ -83,6 +83,7 @@
 ### Front-End Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black) ![React.js](https://img.shields.io/badge/React.js-%2300D9FF?logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%2335495E?logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC?logo=tailwindcss&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-%23C69?logo=sass&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23C69?logo=sass&logoColor=white) ![Webpack](https://img.shields.io/badge/Webpack-%238DD6F9?logo=webpack&logoColor=black) ![Babel](https://img.shields.io/badge/Babel-%23F9DC3E?logo=babel&logoColor=black) ![Jest](https://img.shields.io/badge/Jest-%23C21325?logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-%23093C60?logo=cypress&logoColor=white) ![React Router](https://img.shields.io/badge/React%20Router-%2320232a?logo=reactrouter&logoColor=white) ![Redux](https://img.shields.io/badge/Redux-%2320232a?logo=redux&logoColor=white)
 
+
 ### Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59?logo=express&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20?logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-%2305a4e0?logo=fastapi&logoColor=white) ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000?logo=ruby&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%232C4C9B?logo=php&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F?logo=springboot&logoColor=white) ![Go](https://img.shields.io/badge/Go-%2300ADD8?logo=go&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%235C2D91?logo=aspnetcore&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST%20APIs-%2378C5E0?logo=rest&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098?logo=graphql&logoColor=white) ![WebSockets](https://img.shields.io/badge/WebSockets-%23303030?logo=websockets&logoColor=white)
 
@@ -144,6 +145,42 @@
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-%23FF6347?logo=johntheripper&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%233D3D3D?logo=kali&logoColor=white)
 
+### Cloud Platforms
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900?logo=amazonaws&logoColor=white) 
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900?logo=amazonaws&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%236CC24E?logo=amazonaws&logoColor=white) 
+![AWS RDS](https://img.shields.io/badge/AWS%20RDS-%23FF9900?logo=amazonaws&logoColor=white) 
+![AWS Elastic Beanstalk](https://img.shields.io/badge/AWS%20Elastic%20Beanstalk-%23FF9900?logo=amazonaws&logoColor=white) 
+![AWS VPC](https://img.shields.io/badge/AWS%20VPC-%23FF9900?logo=amazonaws&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4?logo=googlecloud&logoColor=white) 
+![Google Compute Engine](https://img.shields.io/badge/Google%20Compute%20Engine-%234285F4?logo=googlecloud&logoColor=white) 
+![Google App Engine](https://img.shields.io/badge/Google%20App%20Engine-%234285F4?logo=googlecloud&logoColor=white) 
+![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-%234285F4?logo=googlecloud&logoColor=white) 
+![Google Kubernetes Engine](https://img.shields.io/badge/Google%20Kubernetes%20Engine-%234285F4?logo=googlecloud&logoColor=white) 
+![Azure App Services](https://img.shields.io/badge/Azure%20App%20Services-%238E1C1C?logo=microsoftazure&logoColor=white) 
+![Azure SQL Database](https://img.shields.io/badge/Azure%20SQL%20Database-%238E1C1C?logo=microsoftazure&logoColor=white) 
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-%238E1C1C?logo=microsoftazure&logoColor=white)
+
+### Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-%23349C85?logo=terraform&logoColor=white) 
+![AWS CloudFormation](https://img.shields.io/badge/AWS%20CloudFormation-%23FF9900?logo=amazonaws&logoColor=white)
+
+### Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-%232496ED?logo=docker&logoColor=white) 
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%232496ED?logo=kubernetes&logoColor=white)
+
+### Serverless Architectures
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-%236CC24E?logo=amazonaws&logoColor=white) 
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-%238E1C1C?logo=microsoftazure&logoColor=white)
+
+### CI/CD
+![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939?logo=jenkins&logoColor=white) 
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23FCA121?logo=gitlab&logoColor=white) 
+![Travis CI](https://img.shields.io/badge/Travis%20CI-%23000?logo=travisci&logoColor=white)
+
+### Cloud Security
+![Shared Responsibility Models](https://img.shields.io/badge/Shared%20Responsibility%20Models-%23FF6F00?logo=cloud&logoColor=white) 
+![Cloud Security Best Practices](https://img.shields.io/badge/Cloud%20Security%20Best%20Practices-%23F5A623?logo=security&logoColor=white)
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thatcoderboy01&theme=midnight_purple) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Thatcoderboy01&theme=midnight_purple&utcOffset=8) |
 |----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
