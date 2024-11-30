@@ -41,9 +41,9 @@
 
 | **Category**               | **Skills & Tools**                                                                                                                                                         |
 |----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Front-End Development**   | HTML5, CSS3, JavaScript, React.js, Vue.js, Angular, Tailwind CSS, SCSS, Sass, Webpack, Babel, Jest, Cypress, React Router, Redux                                          |
-| **Back-End Development**    | Node.js, Express.js, Python (Django, Flask, FastAPI), Ruby (Rails), PHP, Java (Spring Boot), Go, C#, ASP.NET Core, REST APIs, GraphQL, WebSockets                          |
-| **Databases**               | MySQL, PostgreSQL, SQLite, MongoDB, Redis, Cassandra, CouchDB                                                                                                            |
+| **Front-End Development**   | HTML5, CSS3, JavaScript, React.js, Vue.js, Angular, SCSS, Sass, Webpack, Babel, Jest, Cypress, React Router, Redux                                          |
+| **Back-End Development**    | Node.js, Express.js, PHP, Java (Spring Boot), ASP.NET Core, REST APIs, GraphQL, WebSockets                          |
+| **Databases**               | MySQL, PostgreSQL, SQLite, Redis, Cassandra, CouchDB                                                                                                            |
 | **API Development**         | RESTful APIs, GraphQL, WebSockets                                                                                                                                          |
 | **Authentication**          | JWT, OAuth 2.0, OpenID Connect                                                                                                                                              |
 | **Testing**                 | Jest, Mocha, Chai, Cypress, React Testing Library                                                                                                                           |
