@@ -1,5 +1,6 @@
 <a href="https://github.com/Synaptara">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
+  <img width="3588" height="1184" alt="thatcoderboy" src="https://github.com/user-attachments/assets/64877a26-fd8a-4bd3-8f88-abc32a57eada" />
+
 </a>
 
 <div align="center">
