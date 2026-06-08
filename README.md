@@ -31,8 +31,8 @@ When I'm not coding, you'll usually find me exploring Cloud & DevOps technologie
   
   <h3>Top Featured Projects</h3>
   <a href="https://uiwallet.in/"><img src="https://img.shields.io/badge/UiWallet-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Full Stack wallet and cashback platform with secure APIs, MySQL, Prisma ORM and production deployment.<br>
-  <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
-  <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
+  <a href="https://github.com/Thatcoderboy01/containerized-mern-cloud-security.git"><img src="https://img.shields.io/badge/Krist-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; MERN-based E-Commerce platform with authentication, cart management, AWS deployment, Docker, Nginx and CI/CD pipeline<br>
+  <a href="https://gconnanded.in/"><img src="https://img.shields.io/badge/GOV.Portal-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Official government college website built with React, Tailwind CSS and Framer Motion for a live institution.
 
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
