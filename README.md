@@ -30,7 +30,7 @@ When I'm not coding, you'll usually find me exploring Cloud & DevOps technologie
   <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Featured Projects</h3>
-  <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
+  <a href="https://uiwallet.in/"><img src="https://img.shields.io/badge/UiWallet-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Full Stack wallet and cashback platform with secure APIs, MySQL, Prisma ORM and production deployment.<br>
   <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
   <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
 
