@@ -20,14 +20,16 @@
 
 <div align="justify">
   <h3>Hey there! I’m Ritesh</h3>
-  I'm an AI & Data Science undergrad fueled by sambar and an unhealthy obsession with minimalist dark themes. By day, I pretend to understand the universe. By night, I write Python scripts to automate myself out of doing actual work. When I'm not coding, I'm usually crashing helicopters in GTA V or treating my Clash of Clans village like a highly stressful Fortune 500 company.
+  I'm a Full Stack Developer fueled by chai, curiosity, and an unhealthy obsession with building things from scratch. By day, I'm crafting web applications with React, Node.js, and databases. By night, I'm either solving DSA problems, deploying projects on servers, or convincing myself that "one more feature" won't take another three hours.
+
+When I'm not coding, you'll usually find me exploring Cloud & DevOps technologies, working on side projects, improving my communication skills, or planning the next big thing I'll probably start before finishing the current one.
   <br><br>
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
   
   <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
   
-  <h3>Top Projects (built to avoid manual labor)</h3>
+  <h3>Top Featured Projects</h3>
   <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
   <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
   <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
