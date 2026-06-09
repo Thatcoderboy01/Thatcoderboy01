@@ -30,9 +30,9 @@ When I'm not coding, you'll usually find me exploring Cloud & DevOps technologie
   <img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
   
   <h3>Top Featured Projects</h3>
-  <a href="https://uiwallet.in/"><img src="https://img.shields.io/badge/UiWallet-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Full Stack wallet and cashback platform with secure APIs, MySQL, Prisma ORM and production deployment.<br>
-  <a href="https://github.com/Thatcoderboy01/containerized-mern-cloud-security.git"><img src="https://img.shields.io/badge/Krist-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; MERN-based E-Commerce platform with authentication, cart management, AWS deployment, Docker, Nginx and CI/CD pipeline<br>
-  <a href="https://gconnanded.in/"><img src="https://img.shields.io/badge/GOV.Portal-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Official government college website built with React, Tailwind CSS and Framer Motion for a live institution.
+  <a href="https://uiwallet.in/"><img src="https://img.shields.io/badge/UiWallet-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Wallet and cashback management platform with rewards system.<br>
+  <a href="https://github.com/Thatcoderboy01/containerized-mern-cloud-security.git"><img src="https://img.shields.io/badge/Krist-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Full-featured online shopping platform with secure checkout. <br>
+  <a href="https://gconnanded.in/"><img src="https://img.shields.io/badge/GOV.Portal-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Official government college website serving students and faculty.
 
   
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
