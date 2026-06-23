@@ -20,7 +20,7 @@
 
 <div align="justify">
   <h3>Hey there! I’m Ritesh</h3>
-  I'm a Full Stack Developer fueled by chai, curiosity, and an unhealthy obsession with building things from scratch. By day, I'm crafting web applications with React, Node.js, and databases. By night, I'm either solving DSA problems, deploying projects on servers, or convincing myself that "one more feature" won't take another three hours.
+  I'm a Full Stack Developer fueled by coffee, curiosity, and an unhealthy obsession with building things from scratch. By day, I'm crafting web applications with React, Node.js, and databases. By night, I'm either solving DSA problems, deploying projects on servers, or convincing myself that "one more feature" won't take another three hours.
 
 When I'm not coding, you'll usually find me exploring Cloud & DevOps technologies, working on side projects, improving my communication skills, or planning the next big thing I'll probably start before finishing the current one.
   <br><br>
